@@ -1,0 +1,5 @@
+streamlit
+opencv-python-headless
+mediapipe==1.0.1
+numpy
+Pillow
